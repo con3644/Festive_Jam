@@ -1,0 +1,1198 @@
+﻿Log file open, 12/02/18 19:13:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Festive_Jam
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.188491
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.109s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=blitzkriegv -epicuserid=b526f632ee66421dbc7bdb840db702af -epiclocale=en-US
+LogInit: Base Directory: A:/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Engine.ini]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Engine.ini]
+[2018.12.03-00.13.50:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Engine.ini]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Engine.ini]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.03-00.13.50:259][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.03-00.13.50:260][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.03-00.13.50:260][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.03-00.13.50:260][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Engine.ini]
+[2018.12.03-00.13.50:260][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Engine.ini]
+[2018.12.03-00.13.50:264][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.03-00.13.50:264][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.03-00.13.50:265][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.03-00.13.50:265][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.03-00.13.50:265][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.03-00.13.50:265][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.03-00.13.50:265][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-00.13.50:265][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.03-00.13.50:265][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.03-00.13.50:265][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-00.13.50:265][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.03-00.13.50:274][  0]LogHAL: Display: Platform has ~ 16 GB [17115676672 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.03-00.13.50:274][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.03-00.13.50:274][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.03-00.13.50:274][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-00.13.50:274][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.03-00.13.50:274][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.03-00.13.50:274][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-00.13.50:274][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.03-00.13.50:274][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-00.13.50:274][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.03-00.13.50:274][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.03-00.13.50:274][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.03-00.13.50:274][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.03-00.13.50:274][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.03-00.13.50:274][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.03-00.13.50:275][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.03-00.13.50:276][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.03-00.13.50:276][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [A:/Documents/Festive_Jam/Saved/Config/Windows/Engine.ini]
+[2018.12.03-00.13.50:276][  0]LogInit: Computer: CONROY3644-RIG
+[2018.12.03-00.13.50:276][  0]LogInit: User: conroy3644
+[2018.12.03-00.13.50:276][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.03-00.13.50:276][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.12.03-00.13.50:276][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.03-00.13.50:276][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.03-00.13.50:276][  0]LogMemory: Process Physical Memory: 102.38 MB used, 102.38 MB peak
+[2018.12.03-00.13.50:276][  0]LogMemory: Process Virtual Memory: 92.95 MB used, 92.95 MB peak
+[2018.12.03-00.13.50:276][  0]LogMemory: Physical Memory: 8764.91 MB used,  7557.88 MB free, 16322.78 MB total
+[2018.12.03-00.13.50:276][  0]LogMemory: Virtual Memory: 4635.94 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2018.12.03-00.13.50:295][  0]LogInit: Using OS detected language (en-US).
+[2018.12.03-00.13.50:295][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.03-00.13.50:296][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.03-00.13.50:644][  0]LogStreaming: Display: Took  0.349s to InitEngineTextLocalization.
+[2018.12.03-00.13.50:644][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.03-00.13.50:676][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.03-00.13.50:676][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.03-00.13.50:967][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.03-00.13.50:967][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.03-00.13.51:031][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.12.03-00.13.51:031][  0]LogD3D11RHI:       4043/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.03-00.13.51:033][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.03-00.13.51:033][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.03-00.13.51:033][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.03-00.13.51:042][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.03-00.13.51:042][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.03-00.13.51:042][  0]LogWindows: EnumDisplayDevices:
+[2018.12.03-00.13.51:042][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.12.03-00.13.51:042][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.12.03-00.13.51:043][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.12.03-00.13.51:043][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.12.03-00.13.51:043][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.03-00.13.51:043][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.12.03-00.13.51:043][  0]LogD3D11RHI:   Driver Version: 411.70 (internal:24.21.14.1170, unified:411.70)
+[2018.12.03-00.13.51:043][  0]LogD3D11RHI:      Driver Date: 9-25-2018
+[2018.12.03-00.13.51:043][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2018.12.03-00.13.51:086][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.03-00.13.51:104][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.03-00.13.51:478][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.03-00.13.51:488][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.03-00.13.51:499][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.03-00.13.51:509][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.03-00.13.51:520][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.03-00.13.51:530][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.03-00.13.51:540][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.03-00.13.51:550][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.03-00.13.51:554][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.13.51:618][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.03-00.13.51:672][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-00.13.51:672][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-00.13.51:691][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-00.13.51:691][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-00.13.51:701][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.03-00.13.51:712][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.03-00.13.51:722][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.03-00.13.51:733][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.03-00.13.51:772][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.03-00.13.51:772][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.03-00.13.51:772][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.03-00.13.51:813][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (../../../../Documents/Festive_Jam/Intermediate/Shaders/WorkingDirectory/21540/).
+[2018.12.03-00.13.51:813][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/conroy3644/AppData/Local/Temp/UnrealShaderWorkingDir/C24B53FE45D6C5C4A9BBA3BAB1415497/'.
+[2018.12.03-00.13.51:815][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.03-00.13.51:815][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.03-00.13.51:815][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.03-00.13.52:294][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.03-00.13.52:343][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/conroy3644/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.03-00.13.52:343][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/conroy3644/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.03-00.13.52:343][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Documents/Festive_Jam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.03-00.13.52:343][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.03-00.13.52:343][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Documents/Festive_Jam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.03-00.13.52:343][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.03-00.13.52:355][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.03-00.13.52:355][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.03-00.13.52:355][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.03-00.13.52:370][  0]LogDerivedDataCache: Using Local data cache path C:/Users/conroy3644/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.03-00.13.52:370][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.03-00.13.52:370][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.03-00.13.52:390][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.03-00.13.52:391][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.03-00.13.52:392][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.03-00.13.52:487][  0]LogAssetRegistry: FAssetRegistry took 0.0356 seconds to start up
+[2018.12.03-00.13.52:765][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-00.13.52:825][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.03-00.13.52:828][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.03-00.13.52:828][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.03-00.13.52:828][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.03-00.13.52:828][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.03-00.13.52:911][  0]LogNetVersion: Festive_Jam 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2572599907)
+[2018.12.03-00.13.53:394][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.082303 seconds
+[2018.12.03-00.13.53:399][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.03-00.13.53:399][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.03-00.13.53:399][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.03-00.13.54:271][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.03-00.13.54:296][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.03-00.13.55:200][  0]SourceControl: Source control is disabled
+[2018.12.03-00.13.55:200][  0]SourceControl: Source control is disabled
+[2018.12.03-00.13.55:202][  0]SourceControl: Source control is disabled
+[2018.12.03-00.13.55:202][  0]SourceControl: Source control is disabled
+[2018.12.03-00.13.55:367][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.03-00.13.55:481][  0]LogOcInput: OculusInput pre-init called
+[2018.12.03-00.13.55:603][  0]LogEngine: Initializing Engine...
+[2018.12.03-00.13.55:604][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.03-00.13.55:605][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-00.13.55:605][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-00.13.55:605][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-00.13.55:605][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-00.13.55:804][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.03-00.13.55:813][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.03-00.13.55:855][  0]LogInit: XAudio2 using 'DENON-AVR (NVIDIA High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.03-00.13.55:871][  0]LogInit: FAudioDevice initialized.
+[2018.12.03-00.13.55:871][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.03-00.13.56:001][  0]LogDerivedDataCache: Saved boot cache 0.13s 73MB C:/Users/conroy3644/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.03-00.13.56:011][  0]LogInit: Texture streaming: Enabled
+[2018.12.03-00.13.56:024][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.03-00.13.56:036][  0]LogInit: Transaction tracking system initialized
+[2018.12.03-00.13.56:052][  0]BlueprintLog: New page: Editor Load
+[2018.12.03-00.13.56:163][  0]LocalizationService: Localization service is disabled
+[2018.12.03-00.13.56:552][  0]LogFileCache: Scanning file cache for directory 'A:/Documents/Festive_Jam/Content/' took 0.01s
+[2018.12.03-00.13.56:552][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.03-00.13.56:552][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.03-00.13.56:552][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.03-00.13.56:553][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-00.13.56:553][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-00.13.56:553][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-00.13.56:553][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-00.13.56:666][  0]SourceControl: Source control is disabled
+[2018.12.03-00.13.56:667][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 A:/UE_4.21/FeaturePacks/StarterContent.upack)
+[2018.12.03-00.13.56:671][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.12.03-00.13.56:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.12.03-00.13.56:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.12.03-00.13.56:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.12.03-00.13.56:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.12.03-00.13.56:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.12.03-00.13.56:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.12.03-00.13.56:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.12.03-00.13.56:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.12.03-00.13.56:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.12.03-00.13.56:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.12.03-00.13.56:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.12.03-00.13.56:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.12.03-00.13.56:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.12.03-00.13.56:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.12.03-00.13.56:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.12.03-00.13.56:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.12.03-00.13.56:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.12.03-00.13.56:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Fire01.uasset"
+[2018.12.03-00.13.56:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.12.03-00.13.56:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.12.03-00.13.56:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.12.03-00.13.56:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Light01.uasset"
+[2018.12.03-00.13.56:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.12.03-00.13.56:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Light02.uasset"
+[2018.12.03-00.13.56:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.12.03-00.13.56:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.12.03-00.13.56:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.12.03-00.13.56:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.12.03-00.13.56:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.12.03-00.13.56:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.12.03-00.13.56:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.12.03-00.13.56:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.12.03-00.13.56:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.12.03-00.13.56:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Steam01.uasset"
+[2018.12.03-00.13.56:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.12.03-00.13.56:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.12.03-00.13.56:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.12.03-00.13.56:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.12.03-00.13.56:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.12.03-00.13.56:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.12.03-00.13.56:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.12.03-00.13.56:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.12.03-00.13.56:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.12.03-00.13.56:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.12.03-00.13.56:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.12.03-00.13.56:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.12.03-00.13.56:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.12.03-00.13.56:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.12.03-00.13.56:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.12.03-00.13.56:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.12.03-00.13.56:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.12.03-00.13.56:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.12.03-00.13.56:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../Documents/Festive_Jam/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.12.03-00.13.56:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.12.03-00.13.56:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../Documents/Festive_Jam/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.12.03-00.13.56:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.12.03-00.13.56:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../Documents/Festive_Jam/Content/StarterContent/Maps/StarterMap.umap"
+[2018.12.03-00.13.56:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.12.03-00.13.56:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.12.03-00.13.56:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.12.03-00.13.56:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.12.03-00.13.56:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.12.03-00.13.57:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.12.03-00.13.57:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.12.03-00.13.57:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.12.03-00.13.57:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.12.03-00.13.57:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.12.03-00.13.57:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.12.03-00.13.57:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.12.03-00.13.57:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.12.03-00.13.57:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.12.03-00.13.57:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.12.03-00.13.57:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.12.03-00.13.57:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.12.03-00.13.57:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.12.03-00.13.57:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.12.03-00.13.57:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.12.03-00.13.57:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.12.03-00.13.57:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.12.03-00.13.57:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.12.03-00.13.57:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.12.03-00.13.57:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.12.03-00.13.57:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.12.03-00.13.57:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.12.03-00.13.57:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.12.03-00.13.57:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.12.03-00.13.57:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.12.03-00.13.57:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.12.03-00.13.57:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.12.03-00.13.57:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.12.03-00.13.57:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.12.03-00.13.57:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.12.03-00.13.57:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.12.03-00.13.57:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.12.03-00.13.57:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.12.03-00.13.57:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.12.03-00.13.57:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.12.03-00.13.57:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.12.03-00.13.57:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.12.03-00.13.57:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.12.03-00.13.57:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.12.03-00.13.57:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.12.03-00.13.57:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.12.03-00.13.57:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.12.03-00.13.57:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.12.03-00.13.57:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.12.03-00.13.57:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.12.03-00.13.57:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.12.03-00.13.57:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.12.03-00.13.57:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.12.03-00.13.57:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.12.03-00.13.57:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.12.03-00.13.57:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.12.03-00.13.57:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.12.03-00.13.57:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.12.03-00.13.57:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.12.03-00.13.57:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.12.03-00.13.57:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.12.03-00.13.57:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.12.03-00.13.57:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.12.03-00.13.57:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.12.03-00.13.57:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.12.03-00.13.57:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_Door.uasset"
+[2018.12.03-00.13.57:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.12.03-00.13.57:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.12.03-00.13.57:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.12.03-00.13.57:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.12.03-00.13.57:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.12.03-00.13.57:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.12.03-00.13.57:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.12.03-00.13.57:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.12.03-00.13.57:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.12.03-00.13.57:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.12.03-00.13.57:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.12.03-00.13.57:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.12.03-00.13.57:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.12.03-00.13.57:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.12.03-00.13.57:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.12.03-00.13.57:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.12.03-00.13.57:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.12.03-00.13.57:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.12.03-00.13.57:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.12.03-00.13.57:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.12.03-00.13.57:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.12.03-00.13.57:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.12.03-00.13.57:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.12.03-00.13.57:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.12.03-00.13.57:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.12.03-00.13.57:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.12.03-00.13.57:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.12.03-00.13.57:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.12.03-00.13.58:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.12.03-00.13.58:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.12.03-00.13.58:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.12.03-00.13.58:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.12.03-00.13.58:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.12.03-00.13.58:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.12.03-00.13.58:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.12.03-00.13.58:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.12.03-00.13.58:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.12.03-00.13.58:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.12.03-00.13.58:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.12.03-00.13.58:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.12.03-00.13.58:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.12.03-00.13.58:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.12.03-00.13.58:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.12.03-00.13.58:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.12.03-00.13.58:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.12.03-00.13.58:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.12.03-00.13.58:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.12.03-00.13.58:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.12.03-00.13.58:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.12.03-00.13.58:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.12.03-00.13.58:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.12.03-00.13.58:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.12.03-00.13.58:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.12.03-00.13.58:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.12.03-00.13.58:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.12.03-00.13.58:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.12.03-00.13.58:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.12.03-00.13.58:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.12.03-00.13.58:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.12.03-00.13.58:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.12.03-00.13.58:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.12.03-00.13.58:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.12.03-00.13.58:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.12.03-00.13.58:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.12.03-00.13.58:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.12.03-00.13.58:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.12.03-00.13.58:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.12.03-00.13.58:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.12.03-00.13.58:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.12.03-00.13.58:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.12.03-00.13.58:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.12.03-00.13.58:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.12.03-00.13.58:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.12.03-00.13.58:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.12.03-00.13.58:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.12.03-00.13.58:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.12.03-00.13.58:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.12.03-00.13.58:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.12.03-00.13.58:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.12.03-00.13.58:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.12.03-00.13.58:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.12.03-00.13.58:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.12.03-00.13.58:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.12.03-00.13.58:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.12.03-00.13.58:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.12.03-00.13.58:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.12.03-00.13.58:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.12.03-00.13.58:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.12.03-00.13.58:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.12.03-00.13.58:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.12.03-00.13.58:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.12.03-00.13.58:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.12.03-00.13.58:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.12.03-00.13.58:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.12.03-00.13.58:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.12.03-00.13.58:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.12.03-00.13.58:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.12.03-00.13.58:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.12.03-00.13.58:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.12.03-00.13.58:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.12.03-00.13.58:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.12.03-00.13.58:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.12.03-00.13.58:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.12.03-00.13.58:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.12.03-00.13.58:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.12.03-00.13.58:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.12.03-00.13.58:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.12.03-00.13.58:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.12.03-00.13.58:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.12.03-00.13.58:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.12.03-00.13.58:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.12.03-00.13.58:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.12.03-00.13.58:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.12.03-00.13.58:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.12.03-00.13.58:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.12.03-00.13.58:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.12.03-00.13.58:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.12.03-00.13.58:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.12.03-00.13.58:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.12.03-00.13.58:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.12.03-00.13.58:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.12.03-00.13.58:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.12.03-00.13.58:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.12.03-00.13.58:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.12.03-00.13.58:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.12.03-00.13.58:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.12.03-00.13.58:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.12.03-00.13.58:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.12.03-00.13.58:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.12.03-00.13.58:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.12.03-00.13.58:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.12.03-00.13.58:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.12.03-00.13.58:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.12.03-00.13.58:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.12.03-00.13.58:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.12.03-00.13.58:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.12.03-00.13.58:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.12.03-00.13.58:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.12.03-00.13.58:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.12.03-00.13.58:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.12.03-00.13.58:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.12.03-00.13.58:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.12.03-00.13.58:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.12.03-00.13.58:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.12.03-00.13.58:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.12.03-00.13.58:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.12.03-00.13.58:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../Documents/Festive_Jam/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.12.03-00.13.58:840][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.12.03-00.13.58:883][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../Documents/Festive_Jam/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.12.03-00.13.58:901][  0]LogSavePackage: Moving '../../../../Documents/Festive_Jam/Saved/Floor_400x400072536DC4EB2B47BB904F994208499E8.tmp' to '../../../../Documents/Festive_Jam/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.12.03-00.13.58:903][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.12.03-00.13.58:904][  0]Cmd: MAP LOAD FILE="../../../../Documents/Festive_Jam/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-00.13.58:905][  0]LightingResults: New page: Lighting Build
+[2018.12.03-00.13.58:907][  0]MapCheck: New page: Map Check
+[2018.12.03-00.13.58:907][  0]LightingResults: New page: Lighting Build
+[2018.12.03-00.13.59:036][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.12.03-00.13.59:042][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-00.13.59:066][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-00.13.59:066][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2018.12.03-00.13.59:066][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.161
+[2018.12.03-00.13.59:176][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-00.13.59:181][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-00.13.59:187][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-00.13.59:193][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-00.13.59:197][  0]LogCollectionManager: Loaded 0 collections in 0.000877 seconds
+[2018.12.03-00.13.59:235][  0]LogFileCache: Scanning file cache for directory 'A:/Documents/Festive_Jam/Saved/Collections/' took 0.01s
+[2018.12.03-00.13.59:235][  0]LogFileCache: Scanning file cache for directory 'A:/Documents/Festive_Jam/Content/Developers/conroy3644/Collections/' took 0.01s
+[2018.12.03-00.13.59:235][  0]LogFileCache: Scanning file cache for directory 'A:/Documents/Festive_Jam/Content/Collections/' took 0.01s
+[2018.12.03-00.13.59:235][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.03-00.13.59:243][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2655 classes and 622 folders.
+[2018.12.03-00.13.59:247][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.03-00.13.59:249][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:250][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:250][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:251][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:252][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:252][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:253][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:253][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:254][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:255][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:256][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:256][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:257][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:258][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:259][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:259][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:260][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:261][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:261][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:261][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:262][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:263][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:263][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:264][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:264][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:265][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-00.13.59:306][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.03-00.13.59:311][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.12.03-00.13.59:382][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.03-00.13.59:384][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.03-00.13.59:389][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.03-00.13.59:431][  0]LogRenderer: Reallocating scene render targets to support 600x352 Format 10 NumSamples 1 (Frame:1).
+[2018.12.03-00.13.59:467][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-00.13.59:535][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.03-00.13.59:535][  0]LogLoad: (Engine Initialization) Total time: 11.06 seconds
+[2018.12.03-00.13.59:535][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.03-00.13.59:704][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.03-00.13.59:904][  2]LogAssetRegistry: Asset discovery search completed in 7.4426 seconds
+[2018.12.03-00.13.59:906][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.03-00.13.59:906][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2018.12.03-00.18.31:777][758]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-00.18.31:785][758]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.12.03-00.18.31:785][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-00.18.31:785][758]PIE: New page: PIE session: FirstPersonExampleMap (Dec 2, 2018, 2:18:31 PM)
+[2018.12.03-00.18.31:798][758]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.12.03-00.18.31:816][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017837s)
+[2018.12.03-00.18.31:817][758]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.12.03-00.18.31:817][758]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2018.12.03-00.18.31:817][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018995s)
+[2018.12.03-00.18.31:867][758]LogInit: XAudio2 using 'DENON-AVR (NVIDIA High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.03-00.18.31:878][758]LogInit: FAudioDevice initialized.
+[2018.12.03-00.18.31:878][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-00.18.31:938][758]LogLoad: Game class is 'Festive_JamGameMode'
+[2018.12.03-00.18.31:963][758]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.12.02-19.18.31
+[2018.12.03-00.18.31:984][758]LogWorld: Bringing up level for play took: 0.042868
+[2018.12.03-00.18.32:086][758]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 20 classes and 0 folders.
+[2018.12.03-00.18.32:107][758]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.895
+[2018.12.03-00.18.32:108][758]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.12.03-00.18.34:499][  0]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.12.03-00.18.34:499][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-00.18.34:535][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-00.18.34:535][  0]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.12.03-00.18.34:561][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-00.18.34:599][  4]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.12.03-00.18.35:550][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-00.19.49:633][902]LogSourceControl: Warning: '../../../../Documents/Festive_Jam/' is not part of a Git repository
+[2018.12.03-00.20.01:192][233]LogSlate: Window 'Source Control Login' being destroyed
+[2018.12.03-00.20.54:584][617]SourceControl: Error: warning: LF will be replaced by CRLF in .gitignore.
+[2018.12.03-00.20.54:584][617]SourceControl: Error: The file will have its original line endings in your working directory.
+[2018.12.03-00.23.31:296][590]LogSlate: Window 'Festive_Jam - Unreal Editor' being destroyed
+[2018.12.03-00.23.31:511][591]Cmd: QUIT_EDITOR
+[2018.12.03-00.23.31:988][591]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-00.23.32:001][591]LogExit: Preparing to exit.
+[2018.12.03-00.23.32:646][591]LogExit: Editor shut down
+[2018.12.03-00.23.32:646][591]LogExit: Transaction tracking system shut down
+[2018.12.03-00.23.32:918][591]LogExit: Object subsystem successfully closed.
+[2018.12.03-00.23.32:937][591]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.03-00.23.32:950][591]LogD3D11RHI: Shutdown
+[2018.12.03-00.23.32:951][591]LogD3D11RHI: CleanupD3DDevice
+[2018.12.03-00.23.32:959][591]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.03-00.23.33:009][591]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2018.12.03-00.23.33:009][591]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2018.12.03-00.23.33:009][591]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2018.12.03-00.23.33:009][591]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2018.12.03-00.23.33:009][591]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2018.12.03-00.23.33:009][591]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2018.12.03-00.23.33:009][591]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2018.12.03-00.23.33:009][591]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module StatsViewer (612)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module FoliageEdit (610)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module LandscapeEditor (608)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module MeshPaintMode (606)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (604)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module ActorPickerMode (602)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module GeometryMode (600)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module TextureAlignMode (598)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module BspMode (596)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (594)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (592)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module AutomationWorker (590)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (588)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (586)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (584)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module PlacementMode (583)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module MaterialEditor (582)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (578)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (576)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (574)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (572)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module WebMMedia (570)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (568)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (566)
+[2018.12.03-00.23.33:010][591]LogModuleManager: Shutting down and abandoning module SequenceRecorder (565)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (562)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (560)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (558)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (556)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (554)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (552)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (550)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (548)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (546)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (544)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module CharacterAI (542)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module SmartSnapping (540)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module SessionServices (538)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module ViewportSnapping (536)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module ViewportInteraction (534)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module ClothPainter (532)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (531)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module LogVisualizer (528)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module IntroTutorials (526)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (525)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (522)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (520)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (518)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (516)
+[2018.12.03-00.23.33:011][591]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (515)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (512)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (510)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (508)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (506)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (504)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module InputBindingEditor (502)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module MergeActors (500)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (498)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module LocalizationService (497)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module HardwareTargeting (494)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (492)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module UndoHistory (490)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module XmlParser (488)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module Blutility (486)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (484)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (483)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (480)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module SettingsEditor (478)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module ProjectLauncher (476)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module SessionFrontend (474)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module ProfilerClient (472)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module DeviceManager (470)
+[2018.12.03-00.23.33:703][591]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (469)
+[2018.12.03-00.23.33:768][591]LogModuleManager: Shutting down and abandoning module AutomationController (466)
+[2018.12.03-00.23.33:768][591]LogModuleManager: Shutting down and abandoning module AutomationWindow (464)
+[2018.12.03-00.23.33:768][591]LogModuleManager: Shutting down and abandoning module Layers (462)
+[2018.12.03-00.23.33:768][591]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (460)
+[2018.12.03-00.23.33:768][591]LogModuleManager: Shutting down and abandoning module DetailCustomizations (458)
+[2018.12.03-00.23.33:768][591]LogModuleManager: Shutting down and abandoning module PackagesDialog (456)
+[2018.12.03-00.23.33:768][591]LogModuleManager: Shutting down and abandoning module Persona (454)
+[2018.12.03-00.23.33:768][591]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (453)
+[2018.12.03-00.23.33:768][591]LogModuleManager: Shutting down and abandoning module AnimGraph (451)
+[2018.12.03-00.23.33:768][591]LogModuleManager: Shutting down and abandoning module Kismet (448)
+[2018.12.03-00.23.33:768][591]LogModuleManager: Shutting down and abandoning module GraphEditor (446)
+[2018.12.03-00.23.33:768][591]LogModuleManager: Shutting down and abandoning module ClassViewer (444)
+[2018.12.03-00.23.33:768][591]LogModuleManager: Shutting down and abandoning module Toolbox (442)
+[2018.12.03-00.23.33:768][591]LogModuleManager: Shutting down and abandoning module DesktopPlatform (441)
+[2018.12.03-00.23.33:768][591]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.12.03-00.23.33:768][591]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.12.03-00.23.33:769][591]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.12.03-00.23.33:769][591]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.12.03-00.23.33:769][591]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.12.03-00.23.33:769][591]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.12.03-00.23.33:769][591]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.12.03-00.23.33:769][591]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.12.03-00.23.33:769][591]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.12.03-00.23.33:769][591]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.12.03-00.23.33:769][591]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.12.03-00.23.33:769][591]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.12.03-00.23.33:769][591]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.12.03-00.23.33:769][591]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.12.03-00.23.33:769][591]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.12.03-00.23.33:769][591]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.12.03-00.23.33:769][591]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.12.03-00.23.33:769][591]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (404)
+[2018.12.03-00.23.33:772][591]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2018.12.03-00.23.33:845][591]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2018.12.03-00.23.33:848][591]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module MeshPaint (299)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module Festive_Jam (296)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.03-00.23.33:849][591]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.03-00.23.33:950][591]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.03-00.23.34:051][591]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.03-00.23.34:051][591]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.03-00.23.34:051][591]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.03-00.23.34:051][591]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.03-00.23.34:051][591]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.03-00.23.34:051][591]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.03-00.23.34:051][591]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.03-00.23.34:051][591]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.03-00.23.34:051][591]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.03-00.23.34:051][591]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.03-00.23.34:051][591]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.03-00.23.34:052][591]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.03-00.23.34:053][591]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.03-00.23.34:053][591]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.03-00.23.34:053][591]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.03-00.23.34:053][591]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.03-00.23.34:053][591]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.03-00.23.34:053][591]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2018.12.03-00.23.34:053][591]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2018.12.03-00.23.34:054][591]LogModuleManager: Shutting down and abandoning module Media (241)
+[2018.12.03-00.23.34:061][591]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2018.12.03-00.23.34:061][591]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2018.12.03-00.23.34:061][591]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2018.12.03-00.23.34:061][591]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2018.12.03-00.23.34:061][591]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2018.12.03-00.23.34:061][591]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2018.12.03-00.23.34:061][591]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2018.12.03-00.23.34:061][591]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2018.12.03-00.23.34:061][591]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2018.12.03-00.23.34:061][591]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2018.12.03-00.23.34:061][591]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2018.12.03-00.23.34:061][591]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2018.12.03-00.23.34:061][591]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2018.12.03-00.23.34:061][591]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2018.12.03-00.23.34:061][591]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2018.12.03-00.23.34:062][591]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2018.12.03-00.23.34:062][591]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2018.12.03-00.23.34:062][591]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2018.12.03-00.23.34:062][591]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2018.12.03-00.23.34:062][591]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2018.12.03-00.23.34:062][591]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2018.12.03-00.23.34:062][591]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2018.12.03-00.23.34:062][591]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2018.12.03-00.23.34:062][591]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2018.12.03-00.23.34:062][591]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2018.12.03-00.23.34:062][591]LogModuleManager: Shutting down and abandoning module Core (186)
+[2018.12.03-00.23.34:062][591]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2018.12.03-00.23.34:062][591]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2018.12.03-00.23.34:062][591]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2018.12.03-00.23.34:063][591]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2018.12.03-00.23.34:063][591]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2018.12.03-00.23.34:063][591]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2018.12.03-00.23.34:063][591]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2018.12.03-00.23.34:063][591]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2018.12.03-00.23.34:063][591]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2018.12.03-00.23.34:063][591]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2018.12.03-00.23.34:063][591]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2018.12.03-00.23.34:063][591]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2018.12.03-00.23.34:099][591]LogDerivedDataCache: Shutdown
+[2018.12.03-00.23.34:099][591]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2018.12.03-00.23.34:099][591]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2018.12.03-00.23.34:099][591]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2018.12.03-00.23.34:100][591]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2018.12.03-00.23.34:100][591]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2018.12.03-00.23.34:100][591]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2018.12.03-00.23.34:100][591]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2018.12.03-00.23.34:100][591]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2018.12.03-00.23.34:100][591]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2018.12.03-00.23.34:100][591]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2018.12.03-00.23.34:100][591]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2018.12.03-00.23.34:100][591]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2018.12.03-00.23.34:100][591]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2018.12.03-00.23.34:100][591]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2018.12.03-00.23.34:100][591]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2018.12.03-00.23.34:100][591]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2018.12.03-00.23.34:100][591]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2018.12.03-00.23.34:101][591]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2018.12.03-00.23.34:104][591]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.12.03-00.23.34:104][591]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.12.03-00.23.34:104][591]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.12.03-00.23.34:104][591]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.12.03-00.23.34:104][591]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.12.03-00.23.34:105][591]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.12.03-00.23.34:106][591]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.12.03-00.23.34:107][591]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.12.03-00.23.34:107][591]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.12.03-00.23.34:115][591]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2018.12.03-00.23.34:115][591]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2018.12.03-00.23.34:115][591]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2018.12.03-00.23.34:116][591]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2018.12.03-00.23.34:116][591]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2018.12.03-00.23.34:116][591]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2018.12.03-00.23.34:116][591]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2018.12.03-00.23.34:116][591]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2018.12.03-00.23.34:116][591]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2018.12.03-00.23.34:116][591]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2018.12.03-00.23.34:116][591]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2018.12.03-00.23.34:116][591]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2018.12.03-00.23.34:116][591]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2018.12.03-00.23.34:116][591]LogHMD: Freeing OpenVRDLLHandle.
+[2018.12.03-00.23.34:116][591]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2018.12.03-00.23.34:116][591]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2018.12.03-00.23.34:116][591]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2018.12.03-00.23.34:116][591]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2018.12.03-00.23.34:116][591]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2018.12.03-00.23.34:117][591]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2018.12.03-00.23.34:117][591]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2018.12.03-00.23.34:138][591]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2018.12.03-00.23.34:138][591]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.03-00.23.34:138][591]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B472F9157-4749-FE4C-1EA3-FAB265C86A08%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=b70720dc454a7dfe1002d6befa5e4ffd%7Cb526f632ee66421dbc7bdb840db702af%7C769e36ac-4b18-43fb-b912-e71db333dcbe&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.03-00.23.34:175][591]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2018.12.03-00.23.34:181][591]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2018.12.03-00.23.34:181][591]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2018.12.03-00.23.34:181][591]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2018.12.03-00.23.34:181][591]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2018.12.03-00.23.34:181][591]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2018.12.03-00.23.34:181][591]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2018.12.03-00.23.34:182][591]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2018.12.03-00.23.34:182][591]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.03-00.23.34:182][591]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2018.12.03-00.23.34:183][591]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2018.12.03-00.23.34:183][591]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.03-00.23.34:183][591]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.03-00.23.34:183][591]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.03-00.23.34:183][591]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.03-00.23.34:183][591]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.03-00.23.34:183][591]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.03-00.23.34:183][591]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.03-00.23.34:184][591]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.03-00.23.34:184][591]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.03-00.23.34:184][591]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.03-00.23.34:184][591]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.03-00.23.34:184][591]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.03-00.23.34:184][591]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.03-00.23.34:184][591]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.03-00.23.34:184][591]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.03-00.23.34:184][591]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.03-00.23.34:184][591]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.03-00.23.34:184][591]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.03-00.23.34:194][591]LogExit: Exiting.
+[2018.12.03-00.23.34:216][591]Log file closed, 12/02/18 19:23:34
