@@ -152,7 +152,7 @@ void AFestive_JamCharacter::OnFire()
 				const FVector SpawnLocation = VR_MuzzleLocation->GetComponentLocation();
 				World->SpawnActor<AFestive_JamProjectile>(ProjectileClass, SpawnLocation, SpawnRotation);
 			}
-			else
+			else if (projectileWeapon)
 			{
 				const FRotator SpawnRotation = GetControlRotation();
 				// MuzzleOffset is in camera space, so transform it to world space before offsetting from the character location to find the final muzzle position
