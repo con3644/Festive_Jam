@@ -1,4 +1,4 @@
-# Festive_Jam
+# Re-Incarnate
 A short, festive RPG made for the GameDevNetwork Festive Jam 2018
 
 Our entry for the GameDevNetwork Big Festive Game Jam V2 2018 (Theme for jam: Your Choice Matters) https://itch.io/jam/gamedevnetwork-the-big-festive-game-jam-v2
